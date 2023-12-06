@@ -1,4 +1,4 @@
-# AirBnB clone Project
+# AirBnB Clone Project
 
 <p align="center">This project acknowledges the ALX SE programme and contributors.</p>
 
